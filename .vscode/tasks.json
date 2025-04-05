@@ -7,7 +7,9 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
+                "-I../Gpio5",
                 "${file}",
+                "../Gpio5/Gpio5.c",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}",
                 "-lgpiod",
