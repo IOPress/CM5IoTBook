@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "gpio5.h": "c",
+        "sqwavep317.pio.h": "c",
+        "pio.h": "c",
+        "stdlib.h": "c",
+        "errno.h": "c",
+        "unistd.h": "c",
+        "piolib.h": "c",
+        "stddef.h": "c",
+        "gpio.h": "c",
+        "stdint.h": "c",
+        "pio_platform.h": "c",
+        "lightp343.pio.h": "c",
+        "squarewavep345.pio.h": "c",
+        "ds1812p364.pio.h": "c"
+    }
+}
